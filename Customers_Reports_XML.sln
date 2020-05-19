@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customers_Reports_XML", "Customers_Reports_XML\Customers_Reports_XML.csproj", "{99CAA1D6-A221-44FA-8D5E-5766D410ED5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CAA1D6-A221-44FA-8D5E-5766D410ED5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CAA1D6-A221-44FA-8D5E-5766D410ED5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CAA1D6-A221-44FA-8D5E-5766D410ED5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CAA1D6-A221-44FA-8D5E-5766D410ED5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {730DAE8B-08A0-4BD9-B9C6-8EFE16484656}
+	EndGlobalSection
+EndGlobal
